@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/logo-physio-therapy.svg"
+ },
+ "source_md5": "9e16d536ffd3cf9b0e3f1d567ebdaa9a",
+ "version": "d37e0a39",
+ "tile": "#FFFFFF",
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "0aea34e58affffcf667dfdc969f027bd"
+ ],
+ "made": "2026-10-14"
+}
